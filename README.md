@@ -1,5 +1,8 @@
 ### Hi there 👋
 I’m Kaveesha Dilshani.I am a Software Engineer at WSO2.
+- 👨‍🎓 I'm a Computer Engineering graduate.
+- 📚 Trying to learn new things everyday.
+- 📈 Looking for more projects to colloborate.
 
 <!--
 **kaveeshadilshani/kaveeshadilshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
